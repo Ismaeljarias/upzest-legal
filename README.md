@@ -1,6 +1,6 @@
-# Easy Upsell — Legal Site
+# Upzest — Legal Site
 
-Static website for [Easy Upsell](https://apps.shopify.com/easy-upsell-6), a Shopify app that shows post add-to-cart upsell offers with optional discounts.
+Static website for [Upzest](https://apps.shopify.com/easy-upsell-6), a Shopify app that shows post add-to-cart upsell offers with optional discounts.
 
 Deployed via GitHub Pages.
 
